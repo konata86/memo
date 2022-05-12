@@ -1,3 +1,12 @@
 h1 {
     padding-left: 10px;
 }
+
+span {
+    display: inline-block;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
